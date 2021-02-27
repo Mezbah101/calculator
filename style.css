@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    margin:auto;
+    text-align:center;
+}
+table{
+    margin:auto;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #9234ff;
+    width: 60px;
+    height: 60px;
+    margin: 6px;
+}
+input{
+    width: 250px;
+    height:40px;
+    border-radius:10px;
+}
